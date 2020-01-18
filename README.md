@@ -19,4 +19,6 @@ satisfies the inequality constrains. This way we can be sure that
 the control strategy will never produce the control input to the
 system which can’t be implementable.
 
+The error in x and y was : 
 
+https://github.com/aykatpatal/Fast-Model-Predictive-Control/blob/master/error_x.jpg
