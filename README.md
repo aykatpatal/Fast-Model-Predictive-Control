@@ -11,10 +11,10 @@ improves the speed of standard MPC by exploiting the structure
 of the problem that suits the particular problem. In this paper,
 we discuss the different aspects of design and implementation
 of a fast MPC model on the 1/10th scale F1 race car. A nonlinear
-bicycle model is linearized and used. In this paper we
-posit some techniques that can be incorporated on MPC to
+bicycle model is linearized and used. We used
+ some techniques that can be incorporated on MPC to
 reach real-time constraints by reducing the computation cost
-of optimization. FastMPC provides the suboptimal solution yet
+of optimization. Fast MPC provides the suboptimal solution yet
 satisfies the inequality constrains. This way we can be sure that
 the control strategy will never produce the control input to the
 system which can’t be implementable.
