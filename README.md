@@ -1,6 +1,8 @@
 # Fast-Model-Predictive-Control
 Fast Model Predictive Control using the Primal Barrier Method
-Abstract—One of the major areas of focus in the field of
+
+
+One of the major areas of focus in the field of
 autonomous vehicles is safe navigation and control. While there
 are a plethora of techniques available for control, one of the most
 studied technique is Model Predictive Control (MPC) of vehicle.
