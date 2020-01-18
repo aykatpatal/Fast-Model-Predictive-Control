@@ -21,4 +21,4 @@ system which can’t be implementable.
 
 The error in x and y was : 
 
-https://github.com/aykatpatal/Fast-Model-Predictive-Control/blob/master/error_x.jpg
+![Alt text]https://github.com/aykatpatal/Fast-Model-Predictive-Control/blob/master/error_x.jpg
